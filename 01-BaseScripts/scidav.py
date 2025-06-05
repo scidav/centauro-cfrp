@@ -122,8 +122,6 @@ def createTube(nameModel, tubeLength, tubeDiameterOut, tubeThickness,damageLocat
 
 
 
-
-
 def setDamage(nameModel, tubeLength, tubeDiameterOut, tubeThickness, damageAngle, damageLocation):
     if damageLocation == "null":
         dloc = 0.5*tubeLength
@@ -288,6 +286,10 @@ def saveCAE(nameCaeOut):
 
 
 
+
+# =======================================================================================
+#  END OF LAYERED PROGRAMMING
+# =======================================================================================
 
 
 composite_MA = { 
