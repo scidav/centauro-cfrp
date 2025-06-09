@@ -4,23 +4,23 @@ from abaqus import *
 from abaqusConstants import *
 import __main__
 
-import section
-import regionToolset
-import displayGroupMdbToolset as dgm
-import part
-import material
-import assembly
-import optimization
-import step
-import interaction
-import load
-import mesh
-import job
-import sketch
-import visualization
-import xyPlot
-import displayGroupOdbToolset as dgo
-import connectorBehavior
+# import section
+# import regionToolset
+# import displayGroupMdbToolset as dgm
+# import part
+# import material
+# import assembly
+# import optimization
+# import step
+# import interaction
+# import load
+# import mesh
+# import job
+# import sketch
+# import visualization
+# import xyPlot
+# import displayGroupOdbToolset as dgo
+# import connectorBehavior
 
 
 
